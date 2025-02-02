@@ -1,0 +1,13 @@
+# Ignore system files and directories
+AppData/
+OneDrive/
+ntuser.dat*
+*.log
+*.tmp
+node_modules/
+*.bak
+*.swp
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
